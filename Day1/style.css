@@ -1,0 +1,16 @@
+/* Adding style properties to a tag */
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+/* Adding style properties to a class */
+
+.text {
+    color: white;
+    margin-left: 200px;
+}
