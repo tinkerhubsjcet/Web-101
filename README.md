@@ -16,8 +16,8 @@
     * <a href="">Code</a>
     * <a href="">Recording</a> -->
 
+
+### 👨‍💻 Happy Learning 👩‍💻
 <img src="/README_Resources/main.jpeg" width="350px"> &nbsp;
 &nbsp; &nbsp;<img src="/README_Resources/web.jpeg" width="365px">
 <br>
-
-#### 👨‍💻 Happy Learning 👩‍💻
