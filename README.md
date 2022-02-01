@@ -1,5 +1,5 @@
 # Web-101 🕸️
-### A 3-day virtual training on Web Development &amp; web Designing by <a href="https://tinkerhubsjcet.github.io/linktree/">TinkerHub SJCET</a><br><br>
+### A 3-day virtual training on Web Development &amp; Web Designing by <a href="https://tinkerhubsjcet.github.io/linktree/">TinkerHub SJCET</a><br><br>
 ## Contents
 * Day1
 
