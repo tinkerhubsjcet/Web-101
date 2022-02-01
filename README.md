@@ -5,12 +5,12 @@
 
     * <a href="/Day1">Code</a>
     * <a href="https://drive.google.com/file/d/1SfGa25ENPBkInpQmGC_OPJVxTwU_2Hal/view?usp=drivesdk">Recording</a>
-<!-- 
+
 * Day2
 
-    * <a href="">Code</a>
+    * <a href="/Day2">Code</a>
     * <a href="">Recording</a>
-
+<!-- 
 * Day3
 
     * <a href="">Code</a>
