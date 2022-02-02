@@ -1,0 +1,21 @@
+.box {
+    height: 10vh;
+    width: 200px;
+    background-color: yellowgreen;
+    margin: 20px;
+}
+
+.box-container {
+    background-color: wheat;
+    height: 100vh;
+    display: flex;
+
+    /* Change Flex Direction: By default is row */
+    flex-direction: column;
+
+    /* To move elements along the main axis */
+    justify-content: center;
+
+    /* To move elements along the cross axis */
+    align-items: center;
+}

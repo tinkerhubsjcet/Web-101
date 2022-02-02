@@ -1,0 +1,79 @@
+.Title {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 60px;
+}
+
+.Sub-Heading {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+.Main-Poster {
+    width: 500px;
+}
+
+.Track-Poster {
+    width: 400px;
+    margin-right: 30px;
+}
+
+.Main-Poster-Div {
+    display: flex;
+
+    justify-content: center;
+}
+
+.Track-Poster-Div {
+    display: flex;
+    justify-content: center;
+}
+
+.Tracks {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+}
+
+.Register-Link-Div {
+    display: flex;
+    justify-content: center;
+}
+
+.Register-Link {
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    text-decoration: none;
+    color: white;
+}
+
+.Register-Link:hover {
+    color: blueviolet;
+}
+
+body {
+    background-color: black;
+}
+
+@media screen and (max-width: 860px) {
+    .Track-Poster-Div {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .Track-Poster {
+        width: 300px;
+        margin-bottom: 25px;
+        margin-right: 0px;
+    }
+
+    .Main-Poster {
+        width: 350px;
+    }
+}
