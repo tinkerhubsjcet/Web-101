@@ -9,7 +9,7 @@
 * Day2
 
     * <a href="/Day2">Code</a>
-    * <a href="">Recording</a>
+    * <a href="https://drive.google.com/file/d/1BKWDkGYmqVk2AUe9QwB7zeW_64sdj_50/view?usp=drivesdk">Recording</a>
 <!-- 
 * Day3
 
