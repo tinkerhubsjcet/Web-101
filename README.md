@@ -10,11 +10,12 @@
 
     * <a href="/Day2">Code</a>
     * <a href="https://drive.google.com/file/d/1BKWDkGYmqVk2AUe9QwB7zeW_64sdj_50/view?usp=drivesdk">Recording</a>
-<!-- 
+
 * Day3
 
-    * <a href="">Code</a>
-    * <a href="">Recording</a> -->
+    * <a href="/Day3">Code</a>
+    * <a href="/Day3/Project">Project</a>
+    * <a href="">Recording</a>
 
 
 ### 👨‍💻 Happy Learning 👩‍💻
